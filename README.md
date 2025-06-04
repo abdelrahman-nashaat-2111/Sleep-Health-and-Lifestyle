@@ -1,6 +1,6 @@
 💤 **Sleep Health and Lifestyle Analysis — Power BI Project**
 
-📌 **Project Overview :**
+📌 **Project Overview:**
 
 This project explores the **Sleep Health and Lifestyle Dataset** from Kaggle using **Microsoft Power BI**. The dataset includes lifestyle and physiological factors such as sleep duration, sleep quality, stress level, physical activity, and more. The objective is to visualize patterns that might indicate potential causes of sleep disorders and explore relationships among variables like age, gender, heart rate, and stress levels.
 
@@ -47,7 +47,7 @@ This project explores the **Sleep Health and Lifestyle Dataset** from Kaggle usi
 - Added calculated columns
 
 4️⃣ **Data Modeling**
-- Dataset is single-table, so no relationships were needed
+- The dataset is single-table, so no relationships were needed
 
 5️⃣ **Data Visualization in Power BI**
 Created interactive visualizations to explore:
@@ -56,16 +56,21 @@ Created interactive visualizations to explore:
 - **Stress vs Sleep Duration**
 - **BMI Category Distribution**
 
-🔍 Interactive Filters (Slicers)
+🔍 **Interactive Filters (Slicers):**
 - Gender
 - Occupation
 - Sleep Disorder
-- BMI Category
 
 
-📊 Dashboard Features
+📊 **Dashboard Features**
 - Clean layout with responsive visuals
 - Slicers for filtering
 - KPI cards showing:
   - Average Sleep Duration
   - Average Stress Level
+
+📌 **Tools Used:**
+- Microsoft Excel
+- Microsoft Power BI Desktop
+- Power Query (Data Cleaning)
+- DAX (Calculated Columns)
